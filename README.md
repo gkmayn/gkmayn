@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Evan</h1>
-<h3 align="center">I am an Irish Developer and Part-Time Maker</h3>
+<h3 align="center">I am an Irish "Developer" and Part-Time Maker</h3>
 
-- 🌱 I’m currently learning **React**
-
-- 📝 I regularly write articles on [Automation and Cloud Infrastructure](Automation and Cloud Infrastructure)
+- 🌱 I’m currently learning **Rust**
 
 - 💬 Ask me about **Python, Docker, AWS**
 
